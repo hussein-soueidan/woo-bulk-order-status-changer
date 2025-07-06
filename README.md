@@ -8,7 +8,7 @@ This plugin adds a new admin page under the WooCommerce menu where you can paste
 
 ## Installation
 
-1.  Go to the [Releases page](https://github.com/YOUR-USERNAME/bulk-order-status-changer/releases) of this repository.
+1.  Go to the [Releases page](https://github.com/hussein-soueidan/woo-bulk-order-status-changer) of this repository.
 2.  Download the latest `.zip` file (e.g., `bulk-order-status-changer.zip`).
 3.  In your WordPress admin dashboard, go to **Plugins > Add New**.
 4.  Click **Upload Plugin** and select the `.zip` file you downloaded.
