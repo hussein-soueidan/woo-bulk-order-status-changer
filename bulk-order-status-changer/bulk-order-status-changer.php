@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:       Bulk Order Status Changer
- * Plugin URI:        https://example.com/plugins/the-source/
+ * Plugin URI:        https://github.com/hussein-soueidan/woo-bulk-order-status-changer/blob/main/bulk-order-status-changer/bulk-order-status-changer.php
  * Description:       Allows changing the status of WooCommerce orders in bulk by providing a list of order IDs.
  * Version:           1.0.2
  * Author:            Hussein Soueidan
- * Author URI:        https://example.com/
+ * Author URI:        https://www.instagram.com/huzart/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       bulk-order-status-changer
